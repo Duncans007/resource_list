@@ -44,10 +44,12 @@
 
 ### Quick Cheat Sheets
 
+- [Build Your Own XXX](https://github.com/danistefanovic/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [GitHub README Formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Processing](https://processing.org/reference/)
+- [Web Designer's Ultimate List of Free Resources](http://acasaprogramming.ro/web-designers-ultimate-list-of-free-resources/)
 
 ### Python
 
@@ -58,8 +60,8 @@
 - Libraries
   - [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
   - [Plotly Examples](https://github.com/jabhij/PY-Plotly_CheatSheet)
-  - [NumPy Cheat Sheet](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE)
-  - [Pandas Cheat Sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U)
+  - [NumPy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54)
+  - [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
 - [Easy Python Performance Techniques](https://medium.com/codex/4-python-performance-techniques-to-remember-1b04898de03d)
 
 ### Network Security
@@ -113,4 +115,7 @@
 ## Miscellaneous
 
 - [Still Tasty](http://www.stilltasty.com/)
-- 
+- [Episode to Chapter List](https://onepiece.d1g1t.net/)
+- [Clifford Stoll - The Call to Learn](https://www.ted.com/talks/clifford_stoll_the_call_to_learn)
+- [Simple Spotify Stats](107.170.81.187:8080/public/top)
+- [Free Software Instruments LABS](https://labs.spitfireaudio.com/)
