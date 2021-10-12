@@ -35,7 +35,7 @@
 - [Gear Dimensions](https://khkgears.net/new/gear_knowledge/gear_technical_reference/calculation_gear_dimensions.html)
 - [Cylinder Design Guide](https://www.milwaukeecylinder.com/pdfs/mc_design_engineers_guide.pdf)
 
-## Software Engineering
+## Computer Science and Programming
 
 ### Quick Cheat Sheets
 
@@ -54,7 +54,7 @@
 - [NVD National Vulnerability Database](https://nvd.nist.gov/vuln/search)
 - [Exploit Database](https://www.exploit-db.com/)
 - [Local Windows Privilege Escalation Checklist](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
-- [TryHackMe Leaning Path](https://blog.tryhackme.com/free_path/)
+- [TryHackMe Learning Path](https://blog.tryhackme.com/free_path/)
 
 ### In-Depth Guides for Planned Study
 
