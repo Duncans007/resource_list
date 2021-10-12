@@ -34,6 +34,7 @@
 - [Stresses and Deflections in Beams](https://mechanicalc.com/reference/beam-analysis)
 - [Gear Dimensions](https://khkgears.net/new/gear_knowledge/gear_technical_reference/calculation_gear_dimensions.html)
 - [Cylinder Design Guide](https://www.milwaukeecylinder.com/pdfs/mc_design_engineers_guide.pdf)
+- [Clock Maintenance TM 9-1575](http://www.90thidpg.us/Reference/Manuals/TM%209-1575.pdf)
 
 ## Computer Science and Programming
 
@@ -41,9 +42,12 @@
 
 - [Easy Python Performance Techniques](https://medium.com/codex/4-python-performance-techniques-to-remember-1b04898de03d)
 - [Comprehensive Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
+- [pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
+- [Python Cheat Sheet PDF](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [GitHub README Formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
+- [Processing](https://processing.org/reference/)
 
 ### Network Security
 
@@ -55,6 +59,7 @@
 - [Exploit Database](https://www.exploit-db.com/)
 - [Local Windows Privilege Escalation Checklist](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
 - [TryHackMe Learning Path](https://blog.tryhackme.com/free_path/)
+- [CTF Collection](https://ctfsites.github.io/)
 
 ### In-Depth Guides for Planned Study
 
@@ -62,6 +67,7 @@
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+- [TensorFlow](https://www.tensorflow.org/)
 - [Intro to Probability for Data Science](https://probability4datascience.com/TOC.html)
 - [A Common Sense Guide to Data Structures and Algorithms](https://usermanual.wiki/Document/A20Common20Sense20Guide20To20Data20Structures20And20Algorithms2020Jay20Wengrow.1281995573.pdf)
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
@@ -73,6 +79,7 @@
 ### Other CS Topics
 
 - [Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication/all)
+- [Project Euler](https://projecteuler.net/)
 
 ## Biomechanics
 
