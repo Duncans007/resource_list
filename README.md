@@ -33,21 +33,34 @@
 - [Hexagon Calculator](https://hexagoncalculator.apphb.com/)
 - [Stresses and Deflections in Beams](https://mechanicalc.com/reference/beam-analysis)
 - [Gear Dimensions](https://khkgears.net/new/gear_knowledge/gear_technical_reference/calculation_gear_dimensions.html)
+
+### Misc. Manuals
+
 - [Cylinder Design Guide](https://www.milwaukeecylinder.com/pdfs/mc_design_engineers_guide.pdf)
 - [Clock Maintenance TM 9-1575](http://www.90thidpg.us/Reference/Manuals/TM%209-1575.pdf)
+- [iFixit: Repair Guides for Everything](https://www.ifixit.com/Guide)
 
 ## Computer Science and Programming
 
 ### Quick Cheat Sheets
 
-- [Easy Python Performance Techniques](https://medium.com/codex/4-python-performance-techniques-to-remember-1b04898de03d)
-- [Comprehensive Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
-- [pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
-- [Python Cheat Sheet PDF](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [GitHub README Formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Processing](https://processing.org/reference/)
+
+### Python
+
+- Comprehensive Cheat Sheets
+  - [Comprehensive Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
+  - [pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
+  - [Python Cheat Sheet PDF](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+- Libraries
+  - [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
+  - [Plotly Examples](https://github.com/jabhij/PY-Plotly_CheatSheet)
+  - [NumPy Cheat Sheet](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet#gs.Nw3V6CE)
+  - [Pandas Cheat Sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.S4P4T=U)
+- [Easy Python Performance Techniques](https://medium.com/codex/4-python-performance-techniques-to-remember-1b04898de03d)
 
 ### Network Security
 
@@ -96,3 +109,8 @@
 - [Engineering Course Roadmaps](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf)
 
 <!-- [Wikiversity Astrophysics](https://en.wikiversity.org/wiki/Astrophysics)-->
+
+## Miscellaneous
+
+- [Still Tasty](http://www.stilltasty.com/)
+- 
