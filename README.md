@@ -9,7 +9,7 @@
 
 ## Mechanical Engineering
 
-### Parts
+### Part Ordering
 
 - [McMaster Carr](https://www.mcmaster.com/)
 - [Smith Fasteners](http://www.smithfast.com/smithfasteners/index.htm)
@@ -45,23 +45,7 @@
 - [GitHub README Formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
 
-### In-Depth Guides (Planned Study)
-
-- [C++ For Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html)
-<!-- [Intro to React](https://reactjs.org/tutorial/tutorial.html)-->
-<!-- [Intro to Django](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)-->
-- [Teach Yourself CS](https://teachyourselfcs.com/)
-- [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
-- [Intro to Probability for Data Science](https://probability4datascience.com/TOC.html)
-- [A Common Sense Guide to Data Structures and Algorithms](https://usermanual.wiki/Document/A20Common20Sense20Guide20To20Data20Structures20And20Algorithms2020Jay20Wengrow.1281995573.pdf)
-- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
-- [Operating Systems](https://github.com/tuhdo/os01)
-- []()
-- []()
-- []()
-
-### Netsec
+### Network Security
 
 - [VIM Cheat Sheet](https://vim.rtorr.com/)
 - [NMAP Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
@@ -71,6 +55,20 @@
 - [Exploit Database](https://www.exploit-db.com/)
 - [Local Windows Privilege Escalation Checklist](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
 - [TryHackMe Leaning Path](https://blog.tryhackme.com/free_path/)
+
+### In-Depth Guides for Planned Study
+
+- [C++ For Python Programmers](https://runestone.academy/runestone/books/published/cpp4python/index.html)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+- [Intro to Probability for Data Science](https://probability4datascience.com/TOC.html)
+- [A Common Sense Guide to Data Structures and Algorithms](https://usermanual.wiki/Document/A20Common20Sense20Guide20To20Data20Structures20And20Algorithms2020Jay20Wengrow.1281995573.pdf)
+- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+- [Operating Systems](https://github.com/tuhdo/os01)
+
+<!-- [Intro to React](https://reactjs.org/tutorial/tutorial.html)-->
+<!-- [Intro to Django](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)-->
 
 ### Other CS Topics
 
@@ -87,6 +85,7 @@
 
 - [BibTeX Entry Types w/ Examples](https://www.bibtex.com/e/entry-types/)
 - [NASA PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/)
-<!-- [Wikiversity Astrophysics](https://en.wikiversity.org/wiki/Astrophysics)-->
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 - [Engineering Course Roadmaps](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf)
+
+<!-- [Wikiversity Astrophysics](https://en.wikiversity.org/wiki/Astrophysics)-->
