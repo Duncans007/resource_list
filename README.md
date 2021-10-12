@@ -118,5 +118,5 @@
 - [Still Tasty](http://www.stilltasty.com/)
 - [Episode to Chapter List](https://onepiece.d1g1t.net/)
 - [Clifford Stoll - The Call to Learn](https://www.ted.com/talks/clifford_stoll_the_call_to_learn)
-- [Simple Spotify Stats](https://107.170.81.187:8080/public/top)
+- [Simple Spotify Stats](http://107.170.81.187:8080/public/top)
 - [Free Software Instruments LABS](https://labs.spitfireaudio.com/)
