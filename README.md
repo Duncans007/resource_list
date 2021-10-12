@@ -33,6 +33,7 @@
 - [Hexagon Calculator](https://hexagoncalculator.apphb.com/)
 - [Stresses and Deflections in Beams](https://mechanicalc.com/reference/beam-analysis)
 - [Gear Dimensions](https://khkgears.net/new/gear_knowledge/gear_technical_reference/calculation_gear_dimensions.html)
+- [FE Reference Handbook](https://www.cee.msstate.edu/wp-content/uploads/fe-handbook-10-0-1.pdf)
 
 ### Misc. Manuals
 
