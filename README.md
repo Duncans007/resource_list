@@ -1,4 +1,4 @@
-# Duncan's Resource List
+# Resource List
 
 ## Table of Contents
 
