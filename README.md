@@ -4,7 +4,7 @@
 
 - [Mechanical Engineering Topics](#mechanical-engineering)
 - [Software Engineering Topics](#software-engineering)
-- [Network Security and Alternative CS Topics]
+- [Network Security and Alternative CS Topics](#netsecaltcs)
 - [Biomechanics Topics](#biomechanics)
 - [Research](#research)
 
