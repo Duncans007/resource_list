@@ -48,6 +48,7 @@
 - [Build Your Own XXX](https://github.com/danistefanovic/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [GitHub README Formatting](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GitHub README Editor](https://pandao.github.io/editor.md/en.html)
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Processing](https://processing.org/reference/)
 - [Web Designer's Ultimate List of Free Resources](http://acasaprogramming.ro/web-designers-ultimate-list-of-free-resources/)
