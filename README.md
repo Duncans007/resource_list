@@ -4,7 +4,7 @@
 
 - [Mechanical Engineering Topics](#mechanical-engineering)
 - [Software Engineering Topics](#computer-science-and-programming)
-- [Electrical Engineering Topics](#electrical_engineering)
+- [Electrical Engineering Topics](#electrical-engineering)
 - [Biomechanics Topics](#biomechanics)
 - [Research](#research)
 
