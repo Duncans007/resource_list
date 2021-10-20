@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Mechanical Engineering Topics](#mechanical-engineering)
-- [Software Engineering Topics](#software-engineering)
+- [Software Engineering Topics](#computer-science-and-programming)
+- [Electrical Engineering Topics](#electrical_engineering)
 - [Biomechanics Topics](#biomechanics)
 - [Research](#research)
 
@@ -97,6 +98,10 @@
 
 - [Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication/all)
 - [Project Euler](https://projecteuler.net/)
+
+## Electrical Engineering
+
+- [Electronic Connector Book (WIP)](http://connectorbook.com/)
 
 ## Biomechanics
 
