@@ -90,6 +90,7 @@
 - [A Common Sense Guide to Data Structures and Algorithms](https://usermanual.wiki/Document/A20Common20Sense20Guide20To20Data20Structures20And20Algorithms2020Jay20Wengrow.1281995573.pdf)
 - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
 - [Operating Systems](https://github.com/tuhdo/os01)
+- [Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 <!-- [Intro to React](https://reactjs.org/tutorial/tutorial.html)-->
 <!-- [Intro to Django](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)-->
