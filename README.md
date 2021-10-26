@@ -128,3 +128,4 @@
 - [Simple Spotify Stats](http://107.170.81.187:8080/public/top)
 - [Free Software Instruments LABS](https://labs.spitfireaudio.com/)
 - [Convert Anything to Anything](https://cloudconvert.com/)
+- [Everything I Know](https://wiki.nikitavoloboev.xyz/)
