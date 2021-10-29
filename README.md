@@ -15,6 +15,7 @@
 - [McMaster Carr](https://www.mcmaster.com/)
 - [Smith Fasteners](http://www.smithfast.com/smithfasteners/index.htm)
 - [SDP-SI](https://www.sdp-si.com/)
+- [List of 3D Model Sites](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/)
 
 ### Tables
 
