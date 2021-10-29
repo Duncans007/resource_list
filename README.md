@@ -15,7 +15,14 @@
 - [McMaster Carr](https://www.mcmaster.com/)
 - [Smith Fasteners](http://www.smithfast.com/smithfasteners/index.htm)
 - [SDP-SI](https://www.sdp-si.com/)
-- [List of 3D Model Sites](https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/)
+
+### 3D Model Libraries
+
+- [Thingiverse](https://www.thingiverse.com/)
+- [Thomas](https://cad.thomasnet.com/cadmodels.html)
+- [Traceparts](https://www.traceparts.com/en)
+- [3DContentCentral by Dassault](https://www.3dcontentcentral.com/)
+- [CADENAS](https://b2b.partcommunity.com/community/)
 
 ### Tables
 
