@@ -125,6 +125,7 @@
 - [NASA PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/funder/nasa/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 - [Engineering Course Roadmaps](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf)
+- [Statistical Procedures List](https://www.ncss.com/software/ncss/procedures/)
 
 <!-- [Wikiversity Astrophysics](https://en.wikiversity.org/wiki/Astrophysics)-->
 
