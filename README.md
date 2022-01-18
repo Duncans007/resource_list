@@ -68,6 +68,7 @@
   - [Comprehensive Python Cheat Sheet](https://github.com/gto76/python-cheatsheet)
   - [pythoncheatsheet.org](https://www.pythoncheatsheet.org/)
   - [Python Cheat Sheet PDF](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+  - [Hugging Face - Machine Learning Made Accessible](https://huggingface.co/tasks)
 - Libraries
   - [Plotly Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
   - [Plotly Examples](https://github.com/jabhij/PY-Plotly_CheatSheet)
