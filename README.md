@@ -74,6 +74,7 @@
   - [Plotly Examples](https://github.com/jabhij/PY-Plotly_CheatSheet)
   - [NumPy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54)
   - [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b)
+  - [Python Plot Library](https://www.python-graph-gallery.com/)
 - [Easy Python Performance Techniques](https://medium.com/codex/4-python-performance-techniques-to-remember-1b04898de03d)
 
 ### Network Security
