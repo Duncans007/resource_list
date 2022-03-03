@@ -61,6 +61,7 @@
 - [WebDev Complete Web Skills](https://andreasbm.github.io/web-skills/?compact)
 - [Processing](https://processing.org/reference/)
 - [Web Designer's Ultimate List of Free Resources](http://acasaprogramming.ro/web-designers-ultimate-list-of-free-resources/)
+- [Color Theme Generator](https://coolors.co/)
 
 ### Python
 
